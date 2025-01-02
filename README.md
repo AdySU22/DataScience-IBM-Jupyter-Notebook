@@ -27,11 +27,6 @@ The notebook is divided into several exercises:
 10. **List Objectives**: Insert a markdown cell listing the objectives covered in the notebook.
 11. **Indicate Author's Name**: Create a markdown cell to indicate the author's name.
 
-## Author
-**Ady Syamsuri**
-
-© 2025 Ady Syamsuri. All rights reserved.
-
 ## GitHub Repository
 The notebook is available in this public repository: [GitHub Repository Link](https://github.com/AdySU22/DataScience-IBM-Jupyter-Notebook.git)
 
@@ -40,3 +35,8 @@ Please follow the link to access the notebook and explore the content in detail.
 ## How to Use
 1. **Clone the Repository**: `git clone` [GitHub Repository Link](https://github.com/AdySU22/DataScience-IBM-Jupyter-Notebook.git)
 2. **Open the Notebook**: Launch Jupyter Notebook and open `DataScienceEcosystem.ipynb`.
+
+## Author
+**Ady Syamsuri**
+
+© 2025 Ady Syamsuri. All rights reserved.
