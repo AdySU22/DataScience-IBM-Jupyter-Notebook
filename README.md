@@ -38,5 +38,5 @@ The notebook is available in this public repository: [GitHub Repository Link](ht
 Please follow the link to access the notebook and explore the content in detail.
 
 ## How to Use
-1. **Clone the Repository**: `git clone [[repository link](https://github.com/AdySU22/DataScience-IBM-Jupyter-Notebook.git)]`
+1. **Clone the Repository**: `git clone` [GitHub Repository Link](https://github.com/AdySU22/DataScience-IBM-Jupyter-Notebook.git)
 2. **Open the Notebook**: Launch Jupyter Notebook and open `DataScienceEcosystem.ipynb`.
